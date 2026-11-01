@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Sensitive files & local databases
+credentials.json
+token.json
+*.db
+.env

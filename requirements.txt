@@ -1,0 +1,9 @@
+requests==2.31.0
+plyer==2.1.0
+simpleaudio==1.0.4
+pytz==2023.3.post1
+google-api-python-client==2.116.0
+google-auth-oauthlib==1.2.0
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
